@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="VideoLineView">
+        <attr name="centerlineColor" format="color" />
+        <attr name="lineColor" format="color" />
+        <attr name="txColor" format="color" />
+        <attr name="videoColor" format="color" />
+        <attr name="bgColor" format="color" />
+        <attr name="textSize" format="dimension" />
+    </declare-styleable>
+</resources>
